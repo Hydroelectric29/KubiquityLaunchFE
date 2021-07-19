@@ -1,2 +1,2 @@
 # KubiquityLaunchFE
-Basic front end for product launch 
+Basic front end for product launch. 
